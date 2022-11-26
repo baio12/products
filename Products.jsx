@@ -23,7 +23,7 @@ function Products() {
             <span className='text-3xl font-medium mb-4 block'>Submódulo de productos</span>
             <div>
                 <PrimaryButton>
-                    Hola a todos los productos
+                    Products
                 </PrimaryButton>
             </div>
             <div className='w-full mt-6'>
