@@ -3,7 +3,7 @@ import React from 'react'
 function Products() {
     return (
         <div>
-            Hello from products
+            Hello from products.
         </div>
     )
 }
